@@ -1,1 +1,1 @@
-# specail-table
+# anther-table
