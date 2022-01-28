@@ -1,0 +1,23 @@
+h1,h2, h3{
+    text-align: center;
+    text-decoration: underline;
+}
+p{
+    text-decoration: underline;
+}
+table{
+    width: 100%;
+    border-collapse: collapse;
+}
+tr,th,td{
+    border:1px solid red;
+    padding:8px;
+    font-size: 20px;
+    
+}
+.page, a{
+    text-align: right;
+    text-decoration: underline;
+    font-size: 20px;
+
+}
